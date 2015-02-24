@@ -1,0 +1,12 @@
+C:\Users\Henry\Documents\School\School\Year 5\HCI\modules\MDI\MDI\bin\Debug\MDI.exe.config
+C:\Users\Henry\Documents\School\School\Year 5\HCI\modules\MDI\MDI\bin\Debug\MDI.exe
+C:\Users\Henry\Documents\School\School\Year 5\HCI\modules\MDI\MDI\obj\Debug\MDI.Form1.resources
+C:\Users\Henry\Documents\School\School\Year 5\HCI\modules\MDI\MDI\obj\Debug\MDI.MDIParent1.resources
+C:\Users\Henry\Documents\School\School\Year 5\HCI\modules\MDI\MDI\obj\Debug\MDI.Resources.resources
+C:\Users\Henry\Documents\School\School\Year 5\HCI\modules\MDI\MDI\obj\Debug\MDI.vbproj.GenerateResource.Cache
+C:\Users\Henry\Documents\School\School\Year 5\HCI\modules\MDI\MDI\obj\Debug\MDI.xml
+C:\Users\Henry\Documents\School\School\Year 5\HCI\modules\MDI\MDI\obj\Debug\MDI.pdb
+C:\Users\Henry\Documents\School\School\Year 5\HCI\modules\MDI\MDI\bin\Debug\MDI.pdb
+C:\Users\Henry\Documents\School\School\Year 5\HCI\modules\MDI\MDI\bin\Debug\MDI.xml
+C:\Users\Henry\Documents\School\School\Year 5\HCI\modules\MDI\MDI\obj\Debug\MDI.AboutBox.resources
+C:\Users\Henry\Documents\School\School\Year 5\HCI\modules\MDI\MDI\obj\Debug\MDI.exe

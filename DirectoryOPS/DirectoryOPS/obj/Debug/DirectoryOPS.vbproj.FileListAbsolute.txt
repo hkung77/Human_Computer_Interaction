@@ -1,0 +1,11 @@
+C:\Users\Henry\Documents\School\School\Year 5\HCI\modules\DirectoryOPS\DirectoryOPS\bin\Debug\DirectoryOPS.exe.config
+C:\Users\Henry\Documents\School\School\Year 5\HCI\modules\DirectoryOPS\DirectoryOPS\bin\Debug\DirectoryOPS.exe
+C:\Users\Henry\Documents\School\School\Year 5\HCI\modules\DirectoryOPS\DirectoryOPS\bin\Debug\DirectoryOPS.pdb
+C:\Users\Henry\Documents\School\School\Year 5\HCI\modules\DirectoryOPS\DirectoryOPS\bin\Debug\DirectoryOPS.xml
+C:\Users\Henry\Documents\School\School\Year 5\HCI\modules\DirectoryOPS\DirectoryOPS\obj\Debug\DirectoryOPS.Form1.resources
+C:\Users\Henry\Documents\School\School\Year 5\HCI\modules\DirectoryOPS\DirectoryOPS\obj\Debug\DirectoryOPS.Resources.resources
+C:\Users\Henry\Documents\School\School\Year 5\HCI\modules\DirectoryOPS\DirectoryOPS\obj\Debug\DirectoryOPS.vbproj.GenerateResource.Cache
+C:\Users\Henry\Documents\School\School\Year 5\HCI\modules\DirectoryOPS\DirectoryOPS\obj\Debug\DirectoryOPS.exe
+C:\Users\Henry\Documents\School\School\Year 5\HCI\modules\DirectoryOPS\DirectoryOPS\obj\Debug\DirectoryOPS.xml
+C:\Users\Henry\Documents\School\School\Year 5\HCI\modules\DirectoryOPS\DirectoryOPS\obj\Debug\DirectoryOPS.pdb
+C:\Users\Henry\Documents\School\School\Year 5\HCI\modules\DirectoryOPS\DirectoryOPS\obj\Debug\DirectoryOPS.AboutBox.resources
